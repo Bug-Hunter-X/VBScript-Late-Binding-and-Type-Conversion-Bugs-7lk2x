@@ -1,0 +1,1 @@
+This repository demonstrates common, yet subtle, bugs in VBScript related to late binding and implicit type conversion.  Late binding, while offering flexibility, can mask errors until runtime. Implicit type conversion can lead to unexpected results when different data types interact. The example scripts highlight these issues and offer solutions for more robust code.
